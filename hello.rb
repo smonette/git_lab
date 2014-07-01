@@ -3,4 +3,4 @@ name = gets.chomp
 puts "What are you up to today?"
 activity = gets.chomp.downcase
 
-puts "Hi #{name}! Good luck with #{activity}."
+puts "Nice to meet you, #{name}! Good luck with #{activity}."
